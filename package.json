@@ -1,0 +1,17 @@
+{
+  "name": "coach-api",
+  "version": "1.0.0",
+  "description": "API for S&C Coach App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^3.0.0",
+    "date-fns-tz": "^3.0.0",
+    "express": "^4.18.2",
+    "ics": "^3.1.0",
+    "pg": "^8.11.3"
+  }
+}
